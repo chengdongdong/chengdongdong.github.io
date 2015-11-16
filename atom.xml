@@ -3,9 +3,9 @@
   <title><![CDATA[大道从简]]></title>
   <subtitle><![CDATA[慈母手中线，游子身上衣。临行密密缝，唯恐迟迟归。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
+  <link href="http://chengdongdong.github.io/"/>
   <updated>2015-11-16T04:52:50.503Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://chengdongdong.github.io/</id>
   
   <author>
     <name><![CDATA[JuneCheng]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[博客第一篇]]></title>
-    <link href="http://yoursite.com/2015/11/16/hello-world/"/>
-    <id>http://yoursite.com/2015/11/16/hello-world/</id>
+    <link href="http://chengdongdong.github.io/2015/11/16/hello-world/"/>
+    <id>http://chengdongdong.github.io/2015/11/16/hello-world/</id>
     <published>2015-11-15T19:06:16.000Z</published>
     <updated>2015-11-16T04:52:50.503Z</updated>
     <content type="html"><![CDATA[<p>以后会在这里记录一些技术总结，或者生活中的想法。<br>第一篇先把建立博客的过程写写。<br>第一：试试手，第二：当做是一个hexo使用笔记，以便以后使用。</p>
@@ -35,7 +35,7 @@
 <h3 id="系统环境">系统环境</h3><figure class="highlight bash">]]>
     </summary>
     
-      <category term="ABOUT" scheme="http://yoursite.com/categories/ABOUT/"/>
+      <category term="ABOUT" scheme="http://chengdongdong.github.io/categories/ABOUT/"/>
     
   </entry>
   
