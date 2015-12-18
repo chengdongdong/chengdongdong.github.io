@@ -4,7 +4,7 @@
   <subtitle><![CDATA[慈母手中线，游子身上衣。临行密密缝，唯恐迟迟归。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://chengdongdong.github.io/"/>
-  <updated>2015-11-16T04:52:50.503Z</updated>
+  <updated>2015-11-17T06:45:56.841Z</updated>
   <id>http://chengdongdong.github.io/</id>
   
   <author>
@@ -15,11 +15,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[博客第一篇]]></title>
+    <title><![CDATA[Hexo Blog]]></title>
     <link href="http://chengdongdong.github.io/2015/11/16/hello-world/"/>
     <id>http://chengdongdong.github.io/2015/11/16/hello-world/</id>
     <published>2015-11-15T19:06:16.000Z</published>
-    <updated>2015-11-16T04:52:50.503Z</updated>
+    <updated>2015-11-17T06:45:56.841Z</updated>
     <content type="html"><![CDATA[<p>以后会在这里记录一些技术总结，或者生活中的想法。<br>第一篇先把建立博客的过程写写。<br>第一：试试手，第二：当做是一个hexo使用笔记，以便以后使用。</p>
 <h3 id="系统环境">系统环境</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">$ uname <span class="operator">-a</span></span><br><span class="line">Linux june <span class="number">3.12</span>.<span class="number">2</span>-gentoo <span class="comment">#7 SMP Mon Sep 14 22:09:20 CST 2015 x86_64 Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz GenuineIntel GNU/Linux</span></span><br><span class="line"></span><br><span class="line">$ eselect python list</span><br><span class="line">Available Python interpreters:</span><br><span class="line">  [<span class="number">1</span>]   python2.<span class="number">7</span></span><br><span class="line">  [<span class="number">2</span>]   python3.<span class="number">4</span> *</span><br><span class="line"></span><br><span class="line">$ sudo eselect python <span class="built_in">set</span> <span class="number">1</span></span><br></pre></td></tr></table></figure>
 <h3 id="软件安装">软件安装</h3><h4 id="安装Node">安装Node</h4><p>到<a href="https://nodejs.org" target="_blank" rel="external">Node.js</a>官网下载相应平台的<a href="https://nodejs.org/download/" target="_blank" rel="external">最新版本</a>，我下载的版本是<a href="https://nodejs.org/download/release/v0.12.7/node-v0.12.7.tar.gz" target="_blank" rel="external">node-v0.12.7.tar.gz</a>。</p>
